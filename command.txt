@@ -1,0 +1,7 @@
+1. Create virtual enivironment
+--> conda create -n ml_app python=3.9
+--> conda activate ml_app
+
+2.. Command to install the kernel
+--> ipython kernel install --user --name=ml_app
+
